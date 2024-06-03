@@ -104,6 +104,17 @@ main {
     box-shadow: var(--shadow);
 }
 
+.assuntos button div {
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.assuntos button img {
+    width: 100%;
+}
+
 .botao_html div {
     background: var(--bg-html);
 }
@@ -119,3 +130,4 @@ main {
 .botao_acessibilidade div {
     background: var(--bg-acessibilidade);
 }
+
